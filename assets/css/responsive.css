@@ -1,0 +1,1020 @@
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1290px) {
+    .container{
+        width: 80%;
+        margin: auto
+    }
+}
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (max-width: 1999px) {
+    .dv-skills-left{
+        width: 55%;
+    }
+    .skill{
+        width: 19%;
+    }
+}
+
+/* Extra small devices (phones, 768 and down) */
+@media only screen and (max-width: 991px) {
+    .section-title{
+        width: 100%;
+    }
+    .section-title p{
+        width: 80%;
+    }
+    .dv-info-title{
+        line-height: 28px;
+        font-size: 20px;
+        width: 100%;
+    }
+    .dv-full-info{
+        padding: 10px 0;
+    }
+    .dv-info-left img{
+        height: 400px;
+    }
+    .dv-skills-left h2.skills-about-title{
+        font-size: 28px;
+        width: 75%;
+    }
+    .dv-skills-right{
+        display:none;
+    }
+    .dv-skills-left{
+        width: 100%;
+    }
+    .services{
+        width: 47%;
+    }
+    .services-title{
+        font-size: 20px;
+        text-align: center;
+    }
+    .all-potfolio{
+        width: 100%;
+    }
+    .potfolio{
+        width: 28%;
+    }
+    .team-img{
+        margin: auto 100px;
+    }
+    .team-img img{
+        height: 330px;
+    }
+    .next{
+        right: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%;
+    }
+    .pev{
+        left: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%
+    }
+    .team-info{
+        bottom: 10%;
+        right: 110px;
+        text-align: right;
+        width: 50%;
+    }
+    .team-title{
+        font-size: 16px;
+    }
+    .team-btn{
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .team-dv span{
+        font-size: 16px;
+    }
+    .contact-right{
+        width: 90%;
+    }
+    .dv-s-info{
+        width: 85%;
+    }
+    .skill{
+        width: 20%;
+    }
+
+
+}
+/* Extra small devices (phones, 767px and down) */
+@media only screen and (max-width: 767px) {
+    .logo-section{
+        width: 20%;
+    }
+    .logo-section a{
+        width: 55%;
+    }
+    .main-menu ul li a{
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+    .hero-title{
+        font-size: 30px;
+        width: 100%;
+    }
+    .dv-s-info{
+        font-size: 16px;
+        line-height: 23px;
+        width: 100%;
+    }
+    .center{
+        width: 90%;
+        padding: 20px 0;
+    }
+    .dv-contace{
+        padding: 20px 0;
+    }
+    .dv-contact-btn{
+        font-size: 14px;
+    }
+    .section-title{
+        width: 90%;
+    }
+    .section-title h1{
+        font-size: 30px;
+    }
+    .section-title p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .dv-info{
+        flex-direction: column;
+    }
+    .dv-info-left{
+        width: 50%;
+    }
+    .dv-info-left img{
+        height: 350px;
+    }
+    .dv-info-right{
+        width: 70%%;
+    }
+    .dv-info-title{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .dv-full-info{
+        font-size: 16px;
+        padding: 10px 0;
+        line-height: 22px;
+    }
+    .social-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .dv-info-btn{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+    .container{
+        padding: 10px 0;
+    }
+    .about-section{
+        padding: 0;
+    }
+    .dv-skills{
+        padding-top: 10px;
+        flex-direction: column;
+    }
+    .dv-skills-left{
+        width: 100%;
+
+    }
+    .dv-skills-right{
+        width: 100%;
+        display: none;
+    }
+    .dv-skills-left h2.skills-about-title{
+        width: 100%;
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .dv-skills-left p.skills-about-des{
+        display: none;
+    }
+    .all-skills{
+        justify-content: center;
+    }
+    .skill{
+        width: 20%;
+        margin: 10px;
+    }
+    .social-link li a{
+        padding: 6px;
+    }
+    .social-link li a i{
+        font-size: 16px;
+    }
+    .all-services{
+        padding-top: 20px;
+    }
+    .services{
+        width: 46%;
+    }
+    .services-content{
+        width: 90%;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .services-icon{
+        width: 15%;
+    }
+    .services-title{
+        font-size: 16px;
+        text-align: center;
+    }
+    .potfolio{
+        width: 40%;
+    }
+    
+    .contact-right{
+        width: 90%;
+    }
+    .contact-right textarea,
+    .contact-right input[type=text].sub,
+    .contact-right .cr-top input[type=text], .contact-right .cr-top input[type=email]{
+        padding: 14px 10px;
+        font-size: 14px;
+        width: 100%;
+    }
+    .contace-section{
+        padding: 0;
+    }
+    .cr-top{
+        flex-direction: column;
+    }
+    .potfolio img.potfolio-img{
+        height: 350px;
+    }
+    .potfolio-menu{
+        padding: 25px 0;
+    }
+    .skill img{
+        width: 85%;
+        padding:37px;
+
+    }
+    .potfolio-menu ul li{
+        padding: 6px;
+        margin: 8px 3px;
+        font-size: 14px;
+    }
+
+    .team-img{
+        margin: auto 100px;
+    }
+    .team-img img{
+        height: 260px;
+    }
+    .next{
+        right: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%;
+    }
+    .pev{
+        left: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%
+    }
+    .team-info{
+        bottom: 10%;
+        right: 60px;
+        text-align: right;
+        width: 50%;
+    }
+    .team-title{
+        font-size: 16px;
+    }
+    .team-btn{
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .team-dv span{
+        font-size: 16px;
+    }
+    
+    .team-bottom{
+        margin: 6px auto;
+    }
+    .team-top{
+        padding: 10px 0;
+        margin-bottom: 0;
+
+    }
+    .team-bottom p{
+        margin-bottom: 0;
+    }
+    
+
+}
+/* Extra small devices (phones, 599px and down) */
+@media only screen and (max-width: 599px) {
+    
+    .main-menu ul{
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+
+    }
+    .main-menu ul li a{
+        justify-content: center;
+        align-items: center;
+
+    }
+    .block{
+        display: block !important;
+    }
+    .mobile-menu-box{
+        display: block;
+    }
+
+    .hero-title{
+        font-size: 30px;
+        width: 100%;
+    }
+    .dv-s-info{
+        font-size: 16px;
+        line-height: 23px;
+        width: 100%;
+    }
+    .center{
+        width: 90%;
+        padding: 20px 0;
+    }
+    .dv-contace{
+        padding: 20px 0;
+    }
+    .dv-contact-btn{
+        font-size: 14px;
+    }
+    .section-title{
+        width: 90%;
+    }
+    .section-title h1{
+        font-size: 30px;
+    }
+    .section-title p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .dv-info{
+        flex-direction: column;
+    }
+    .dv-info-left{
+        width: 90%;
+    }
+    .dv-info-left img{
+        height: 350px;
+    }
+    .dv-info-right{
+        width: 100%;
+    }
+    .dv-info-title{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .dv-full-info{
+        font-size: 16px;
+        padding: 10px 0;
+        line-height: 22px;
+    }
+    .social-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .dv-info-btn{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+    .container{
+        padding: 10px 0;
+    }
+    .about-section{
+        padding: 0;
+    }
+    .dv-skills{
+        padding-top: 10px;
+        flex-direction: column;
+    }
+    .dv-skills-left{
+        width: 100%;
+
+    }
+    .dv-skills-right{
+        width: 100%;
+        display: none;
+    }
+    .dv-skills-left h2.skills-about-title{
+        width: 100%;
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .dv-skills-left p.skills-about-des{
+        display: none;
+    }
+    .all-skills{
+        justify-content: center;
+    }
+    .skill{
+        width: 29%;
+        margin: 10px;
+    }
+    .social-link li a{
+        padding: 6px;
+    }
+    .social-link li a i{
+        font-size: 16px;
+    }
+    .all-services{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .services{
+        width: 90%;
+    }
+    .services-content{
+        width: 90%;
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .services-icon{
+        width: 15%;
+    }
+    .services-title{
+        font-size: 22px;
+        text-align: center;
+    }
+    .team{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+    .team-img{
+        width: 80%;
+        margin: -30px auto;
+        box-shadow: 0px 0px 15px #2f2d8f85;
+    }
+    .team-img img{
+        height: 350px;
+        z-index: -2;
+
+    }
+    .team-info{
+        width: 90%;
+        position: static;
+        text-align: center;
+        border-radius: 10px;
+        z-index: 5;
+    }
+    .team-bottom{
+        width: 100%;
+        margin: 6px auto;
+    }
+    .team-top{
+        width: 100%;
+        padding: 10px 0;
+        margin-bottom: 0;
+
+    }
+    .team-bottom p{
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .team-dv{
+        width: 100%;
+        padding: 10px 0;
+        margin-bottom: 5px;
+    }
+    .team-title{
+        font-size: 16px;
+    }
+    .team-btn{
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .team-dv span{
+        font-size: 16px;
+    }
+    .team-dv h1{
+        font-size: 16px;
+    }
+    .potfolio{
+        width: 40%;
+    }
+    .next{
+        right: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%;
+    }
+    .pev{
+        left: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%
+    }
+    .contact-right{
+        width: 90%;
+    }
+    .contact-right textarea,
+    .contact-right input[type=text].sub,
+    .contact-right .cr-top input[type=text], .contact-right .cr-top input[type=email]{
+        padding: 14px 10px;
+        font-size: 14px;
+        width: 100%;
+    }
+    .contace-section{
+        padding: 0;
+    }
+    .cr-top{
+        flex-direction: column;
+    }
+    .potfolio img.potfolio-img{
+        height: 350px;
+    }
+    .potfolio-menu{
+        padding: 25px 0;
+    }
+    .skill img{
+        width: 85%;
+        padding:37px;
+
+    }
+    .potfolio-menu ul li{
+        padding: 6px;
+        margin: 8px 3px;
+        font-size: 14px;
+    }
+
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 360px) {
+    .hero-title{
+        font-size: 30px;
+        width: 100%;
+    }
+    .dv-s-info{
+        font-size: 16px;
+        line-height: 23px;
+        width: 100%;
+    }
+    .center{
+        width: 90%;
+        padding: 20px 0;
+    }
+    .dv-contace{
+        padding: 20px 0;
+    }
+    .dv-contact-btn{
+        font-size: 14px;
+    }
+    .section-title{
+        width: 90%;
+    }
+    .section-title h1{
+        font-size: 30px;
+    }
+    .section-title p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .dv-info{
+        flex-direction: column;
+    }
+    .dv-info-left{
+        width: 90%;
+    }
+    .dv-info-left img{
+        height: 350px;
+    }
+    .dv-info-right{
+        width: 100%;
+    }
+    .dv-info-title{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .dv-full-info{
+        font-size: 16px;
+        padding: 10px 0;
+        line-height: 22px;
+    }
+    .social-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .dv-info-btn{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+    .container{
+        padding: 10px 0;
+    }
+    .about-section{
+        padding: 0;
+    }
+    .dv-skills{
+        padding-top: 10px;
+        flex-direction: column;
+    }
+    .dv-skills-left{
+        width: 100%;
+
+    }
+    .dv-skills-right{
+        width: 100%;
+        display: none;
+    }
+    .dv-skills-left h2.skills-about-title{
+        width: 100%;
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .dv-skills-left p.skills-about-des{
+        display: none;
+    }
+    .all-skills{
+        justify-content: center;
+    }
+    .skill{
+        width: 40%;
+        margin: 10px;
+    }
+    .social-link li a{
+        padding: 6px;
+    }
+    .social-link li a i{
+        font-size: 16px;
+    }
+    .all-services{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .services{
+        width: 90%;
+    }
+    .services-content{
+        width: 100%;
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .services-icon{
+        width: 15%;
+    }
+    .services-title{
+        font-size: 18px;
+        text-align: center;
+    }
+    .team{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+    .team-img{
+        width: 80%;
+        margin: -30px auto;
+        box-shadow: 0px 0px 15px #2f2d8f85;
+    }
+    .team-img img{
+        height: 200px;
+        z-index: -2;
+
+    }
+    .team-info{
+        width: 90%;
+        position: static;
+        text-align: center;
+        border-radius: 10px;
+        z-index: 5;
+    }
+    .team-bottom{
+        width: 100%;
+        margin: 6px auto;
+    }
+    .team-top{
+        width: 100%;
+        padding: 10px 0;
+        margin-bottom: 0;
+
+    }
+    .team-bottom p{
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .team-dv{
+        width: 100%;
+        padding: 10px 0;
+        margin-bottom: 5px;
+    }
+    .team-title{
+        font-size: 16px;
+    }
+    .team-btn{
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .team-dv span{
+        font-size: 16px;
+    }
+    .team-dv h1{
+        font-size: 16px;
+    }
+    .potfolio{
+        width: 100%;
+        margin: 10px auto;
+    }
+    .next{
+        right: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%;
+    }
+    .pev{
+        left: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%
+    }
+    .contact-right{
+        width: 90%;
+    }
+    .contact-right textarea,
+    .contact-right input[type=text].sub,
+    .contact-right .cr-top input[type=text], .contact-right .cr-top input[type=email]{
+        padding: 14px 10px;
+        font-size: 14px;
+        width: 100%;
+    }
+    .contace-section{
+        padding: 0;
+    }
+    .cr-top{
+        flex-direction: column;
+    }
+    .potfolio img.potfolio-img{
+        height: 350px;
+    }
+    .potfolio-menu{
+        padding: 25px 0;
+    }
+
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 440px) {
+    .hero-title{
+        font-size: 30px;
+        width: 100%;
+    }
+    .dv-s-info{
+        font-size: 16px;
+        line-height: 23px;
+        width: 100%;
+    }
+    .center{
+        width: 90%;
+        padding: 20px 0;
+    }
+    .dv-contace{
+        padding: 20px 0;
+    }
+    .dv-contact-btn{
+        font-size: 14px;
+    }
+    .section-title{
+        width: 90%;
+    }
+    .section-title h1{
+        font-size: 30px;
+    }
+    .section-title p{
+        font-size: 16px;
+        width: 100%;
+    }
+    .dv-info{
+        flex-direction: column;
+    }
+    .dv-info-left{
+        width: 90%;
+    }
+    .dv-info-left img{
+        height: 350px;
+    }
+    .dv-info-right{
+        width: 100%;
+    }
+    .dv-info-title{
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .dv-full-info{
+        font-size: 16px;
+        padding: 10px 0;
+        line-height: 22px;
+    }
+    .social-link {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .dv-info-btn{
+        display: flex;
+        align-content: center;
+        justify-content: center;
+    }
+    .container{
+        padding: 10px 0;
+    }
+    .about-section{
+        padding: 0;
+    }
+    .dv-skills{
+        padding-top: 10px;
+        flex-direction: column;
+    }
+    .dv-skills-left{
+        width: 100%;
+
+    }
+    .dv-skills-right{
+        width: 100%;
+        display: none;
+    }
+    .dv-skills-left h2.skills-about-title{
+        width: 100%;
+        font-size: 20px;
+        line-height: 30px;
+        padding-bottom: 15px;
+        text-align: center;
+    }
+    .dv-skills-left p.skills-about-des{
+        display: none;
+    }
+    .all-skills{
+        justify-content: center;
+    }
+    .skill{
+        width: 40%;
+        margin: 10px;
+    }
+    .social-link li a{
+        padding: 6px;
+    }
+    .social-link li a i{
+        font-size: 16px;
+    }
+    .all-services{
+        flex-direction: column;
+        padding-top: 20px;
+    }
+    .services{
+        width: 90%;
+    }
+    .services-content{
+        width: 100%;
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .services-icon{
+        width: 15%;
+    }
+    .services-title{
+        font-size: 18px;
+        text-align: center;
+    }
+    .team{
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        position: static;
+    }
+    .team-img{
+        width: 80%;
+        margin: -30px auto;
+        box-shadow: 0px 0px 15px #2f2d8f85;
+    }
+    .team-img img{
+        height: 200px;
+        z-index: -2;
+
+    }
+    .team-info{
+        width: 90%;
+        position: static;
+        text-align: center;
+        border-radius: 10px;
+        z-index: 5;
+    }
+    .team-bottom{
+        width: 100%;
+        margin: 6px auto;
+    }
+    .team-top{
+        width: 100%;
+        padding: 10px 0;
+        margin-bottom: 0;
+
+    }
+    .team-bottom p{
+        width: 100%;
+        font-size: 14px;
+        line-height: 20px;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .team-dv{
+        width: 100%;
+        padding: 10px 0;
+        margin-bottom: 5px;
+    }
+    .team-title{
+        font-size: 16px;
+    }
+    .team-btn{
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    .team-dv span{
+        font-size: 16px;
+    }
+    .team-dv h1{
+        font-size: 16px;
+    }
+    .potfolio{
+        width: 100%;
+        margin: 10px auto;
+    }
+    .next{
+        right: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%;
+    }
+    .pev{
+        left: 0;
+        font-size: 14px;
+        padding: 10px;
+        top: 56%
+    }
+    .contact-right{
+        width: 90%;
+    }
+    .contact-right textarea,
+    .contact-right input[type=text].sub,
+    .contact-right .cr-top input[type=text], .contact-right .cr-top input[type=email]{
+        padding: 14px 10px;
+        font-size: 14px;
+        width: 100%;
+    }
+    .contace-section{
+        padding: 0;
+    }
+    .cr-top{
+        flex-direction: column;
+    }
+    .potfolio img.potfolio-img{
+        height: 350px;
+    }
+    .potfolio-menu{
+        padding: 25px 0;
+    }
+
+}
+
+
+
+
+
